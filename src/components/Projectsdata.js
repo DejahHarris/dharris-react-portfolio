@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import Card from "react"
+import Card from "react-bootstrap/Card";
 
 export default function Projectsdata (props) {
     const currentProject = useState(props)[0].projects;
