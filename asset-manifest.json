@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DejahHarris/dharris-react-portfolio/static/css/main.c347b991.css",
+    "main.js": "/DejahHarris/dharris-react-portfolio/static/js/main.7502d691.js",
+    "static/js/787.56d9acf9.chunk.js": "/DejahHarris/dharris-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/CodeRefactor.png": "/DejahHarris/dharris-react-portfolio/static/media/CodeRefactor.2a64804a086066e422d0.png",
+    "static/media/1stPortfolio.png": "/DejahHarris/dharris-react-portfolio/static/media/1stPortfolio.ba07a651150f4aaa1822.png",
+    "static/media/PicMe.png": "/DejahHarris/dharris-react-portfolio/static/media/PicMe.2b993288f1ed13fbf9d4.png",
+    "static/media/ProfilePic.JPG": "/DejahHarris/dharris-react-portfolio/static/media/ProfilePic.34b9350cf9167e368462.JPG",
+    "static/media/Screenshot 2022-12-26 at 7.59.27 PM.png": "/DejahHarris/dharris-react-portfolio/static/media/Screenshot 2022-12-26 at 7.59.27 PM.83afeada476d06867948.png",
+    "static/media/Dejah Harris Resume.pdf": "/DejahHarris/dharris-react-portfolio/static/media/Dejah Harris Resume.8af8529bd4bcf487adf4.pdf",
+    "index.html": "/DejahHarris/dharris-react-portfolio/index.html",
+    "main.c347b991.css.map": "/DejahHarris/dharris-react-portfolio/static/css/main.c347b991.css.map",
+    "main.7502d691.js.map": "/DejahHarris/dharris-react-portfolio/static/js/main.7502d691.js.map",
+    "787.56d9acf9.chunk.js.map": "/DejahHarris/dharris-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c347b991.css",
+    "static/js/main.7502d691.js"
+  ]
+}
