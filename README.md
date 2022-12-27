@@ -7,4 +7,4 @@ For Challenge 20, I have created a react portfolio. This portfolio includes all 
 # Links
  Repo: https://github.com/DejahHarris/dharris-react-portfolio
 
- Deployed Site: 
+ Deployed Site: https://dejahharris.github.io/dharris-react-portfolio/
